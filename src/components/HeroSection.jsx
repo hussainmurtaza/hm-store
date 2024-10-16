@@ -8,7 +8,7 @@ export default function HeroSection() {
       <div className="absolute inset-0 bg-black bg-opacity-50"></div>
 
       {/* Hero content */}
-      <div className="relative z-10 flex flex-col items-center justify-center h-full text-center text-white px-4">
+      <div className="relative z-10 flex flex-col items-center justify-center h-full text-center text-whiteColor px-4">
         {/* Headline */}
         <h1 className="text-4xl lg:text-6xl font-bold mb-4">
           Discover the Finest Fabrics for Every Season
@@ -22,7 +22,7 @@ export default function HeroSection() {
 
         {/* Search Bar */}
         <div className="w-full max-w-md">
-          <form className="flex items-center bg-white rounded-full shadow-md overflow-hidden">
+          <form className="flex items-center bg-whiteColor rounded-full shadow-md overflow-hidden">
             <input
               type="text"
               placeholder="Search fabrics..."
@@ -30,7 +30,7 @@ export default function HeroSection() {
             />
             <button
               type="submit"
-              className="bg-deepTeal hover:bg-softCoral text-white px-4 py-2 rounded-r-full focus:outline-none"
+              className="bg-deepTeal hover:bg-softCoral text-whiteColor px-4 py-2 rounded-r-full focus:outline-none"
             >
               Search
             </button>
