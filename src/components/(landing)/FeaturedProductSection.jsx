@@ -3,14 +3,14 @@ import React from "react";
 
 export const FeaturedProductSection = () => {
   return (
-    <section className="py-16 bg-white">
+    <section className="py-16 bg-whiteColor">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-charcoal mb-6 text-center">
           Featured Fabrics
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
           {/* Sample Product Card */}
-          <div className="bg-[#EDE3E9] rounded-lg overflow-hidden shadow-md">
+          <div className="bg-lightPink rounded-lg overflow-hidden shadow-md">
             <div className="flex items-center justify-center">
               <Image
                 src="/images/feature-pro-3.png"
@@ -25,13 +25,13 @@ export const FeaturedProductSection = () => {
               <h3 className="text-lg font-semibold text-charcoal">
                 Fabric Name
               </h3>
-              <p className="text-[#9F84BD] text-xl font-bold">$Price</p>
-              <button className="mt-2 bg-[#9F84BD] text-white px-4 py-2 rounded hover:bg-softCoral">
+              <p className="text-purple text-xl font-bold">$Price</p>
+              <button className="mt-2 bg-purple text-whiteColor px-4 py-2 rounded hover:bg-softCoral">
                 View Details
               </button>
             </div>
           </div>
-          <div className="bg-[#EDE3E9] rounded-lg overflow-hidden shadow-md">
+          <div className="bg-lightPink rounded-lg overflow-hidden shadow-md">
             <div className="flex items-center justify-center">
               <Image
                 src="/images/feature-pro-2.webp"
@@ -46,13 +46,13 @@ export const FeaturedProductSection = () => {
               <h3 className="text-lg font-semibold text-charcoal">
                 Fabric Name
               </h3>
-              <p className="text-[#9F84BD] text-xl font-bold">$Price</p>
-              <button className="mt-2 bg-[#9F84BD] text-white px-4 py-2 rounded hover:bg-softCoral">
+              <p className="text-purple text-xl font-bold">$Price</p>
+              <button className="mt-2 bg-purple text-whiteColor px-4 py-2 rounded hover:bg-softCoral">
                 View Details
               </button>
             </div>
           </div>
-          <div className="bg-[#EDE3E9] rounded-lg overflow-hidden shadow-md">
+          <div className="bg-lightPink rounded-lg overflow-hidden shadow-md">
             <div className="flex items-center justify-center">
               <Image
                 src="/images/feature-pro-3.png"
@@ -67,13 +67,13 @@ export const FeaturedProductSection = () => {
               <h3 className="text-lg font-semibold text-charcoal">
                 Fabric Name
               </h3>
-              <p className="text-[#9F84BD] text-xl font-bold">$Price</p>
-              <button className="mt-2 bg-[#9F84BD] text-white px-4 py-2 rounded hover:bg-softCoral">
+              <p className="text-purple text-xl font-bold">$Price</p>
+              <button className="mt-2 bg-purple text-whiteColor px-4 py-2 rounded hover:bg-softCoral">
                 View Details
               </button>
             </div>
           </div>
-          <div className="bg-[#EDE3E9] rounded-lg overflow-hidden shadow-md">
+          <div className="bg-lightPink rounded-lg overflow-hidden shadow-md">
             <div className="flex items-center justify-center">
               <Image
                 src="/images/feature-pro-2.webp"
@@ -88,8 +88,8 @@ export const FeaturedProductSection = () => {
               <h3 className="text-lg font-semibold text-charcoal">
                 Fabric Name
               </h3>
-              <p className="text-[#9F84BD] text-xl font-bold">$Price</p>
-              <button className="mt-2 bg-[#9F84BD] text-white px-4 py-2 rounded hover:bg-softCoral">
+              <p className="text-purple text-xl font-bold">$Price</p>
+              <button className="mt-2 bg-purple text-whiteColor px-4 py-2 rounded hover:bg-softCoral">
                 View Details
               </button>
             </div>

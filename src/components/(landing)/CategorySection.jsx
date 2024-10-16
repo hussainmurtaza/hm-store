@@ -4,13 +4,13 @@ import React from "react";
 
 const CategorySection = () => {
   return (
-    <section className="bg-white">
+    <section className="bg-whiteColor">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-charcoal mb-6 text-center">
           Shop by Category
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-          <div className="bg-[#EDE3E9] rounded-lg shadow-md p-4 text-center">
+          <div className="bg-lightPink rounded-lg shadow-md p-4 text-center">
           <Image
                 src="/images/lawn-category-1.webp"
                 alt="Fabric Name"
@@ -23,7 +23,7 @@ const CategorySection = () => {
               Shop Now
             </Link>
           </div>
-          <div className="bg-[#EDE3E9] rounded-lg shadow-md p-4 text-center">
+          <div className="bg-lightPink rounded-lg shadow-md p-4 text-center">
           <Image
                 src="/images/lawn-category-1.webp"
                 alt="Fabric Name"
@@ -36,7 +36,7 @@ const CategorySection = () => {
               Shop Now
             </Link>
           </div>
-          <div className="bg-[#EDE3E9] rounded-lg shadow-md p-4 text-center">
+          <div className="bg-lightPink rounded-lg shadow-md p-4 text-center">
           <Image
                 src="/images/lawn-category-1.webp"
                 alt="Fabric Name"
@@ -49,7 +49,7 @@ const CategorySection = () => {
               Shop Now
             </Link>
           </div>
-          <div className="bg-[#EDE3E9] rounded-lg shadow-md p-4 text-center">
+          <div className="bg-lightPink rounded-lg shadow-md p-4 text-center">
           <Image
                 src="/images/lawn-category-1.webp"
                 alt="Fabric Name"
@@ -62,7 +62,7 @@ const CategorySection = () => {
               Shop Now
             </Link>
           </div>
-          <div className="bg-[#EDE3E9] rounded-lg shadow-md p-4 text-center">
+          <div className="bg-lightPink rounded-lg shadow-md p-4 text-center">
           <Image
                 src="/images/lawn-category-1.webp"
                 alt="Fabric Name"
@@ -75,7 +75,7 @@ const CategorySection = () => {
               Shop Now
             </Link>
           </div>
-          <div className="bg-[#EDE3E9] rounded-lg shadow-md p-4 text-center">
+          <div className="bg-lightPink rounded-lg shadow-md p-4 text-center">
           <Image
                 src="/images/lawn-category-1.webp"
                 alt="Fabric Name"
