@@ -2,7 +2,7 @@ import React from "react";
 
 const TestimonialSection = () => {
   return (
-    <section className="py-16 bg-whiteColor">
+    <section className="py-16 bg-lightPink">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-charcoal mb-6 text-center">
           What Our Customers Say

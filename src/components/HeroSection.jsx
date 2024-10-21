@@ -27,10 +27,17 @@ export default function HeroSection() {
               type="text"
               placeholder="Search fabrics..."
               className="w-full px-4 py-2 text-charcoal focus:outline-none"
+
+              // "w-full px-4 py-2
+              // group-hover:w-[300px] transition-all
+              // duration-300 rounded-full border
+              // border-gray-300 px-2 py-1
+              // focus:outline-none focus:border-1
+              // focus:border-orange-400"
             />
             <button
               type="submit"
-              className="bg-deepTeal hover:bg-softCoral text-whiteColor px-4 py-2 rounded-r-full focus:outline-none"
+              className="bg-yellow hover:bg-deepTeal text-whiteColor px-4 py-2 rounded-r-full focus:outline-none"
             >
               Search
             </button>

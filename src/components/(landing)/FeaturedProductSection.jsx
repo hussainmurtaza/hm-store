@@ -25,8 +25,8 @@ export const FeaturedProductSection = () => {
               <h3 className="text-lg font-semibold text-charcoal">
                 Fabric Name
               </h3>
-              <p className="text-purple text-xl font-bold">$Price</p>
-              <button className="mt-2 bg-purple text-whiteColor px-4 py-2 rounded hover:bg-softCoral">
+              <p className="text-yellow text-xl font-bold">$Price</p>
+              <button className="mt-2 bg-yellow text-whiteColor px-4 py-2 rounded hover:bg-yellow">
                 View Details
               </button>
             </div>
@@ -46,8 +46,8 @@ export const FeaturedProductSection = () => {
               <h3 className="text-lg font-semibold text-charcoal">
                 Fabric Name
               </h3>
-              <p className="text-purple text-xl font-bold">$Price</p>
-              <button className="mt-2 bg-purple text-whiteColor px-4 py-2 rounded hover:bg-softCoral">
+              <p className="text-yellow text-xl font-bold">$Price</p>
+              <button className="mt-2 bg-yellow text-whiteColor px-4 py-2 rounded hover:bg-yellow">
                 View Details
               </button>
             </div>
@@ -67,8 +67,8 @@ export const FeaturedProductSection = () => {
               <h3 className="text-lg font-semibold text-charcoal">
                 Fabric Name
               </h3>
-              <p className="text-purple text-xl font-bold">$Price</p>
-              <button className="mt-2 bg-purple text-whiteColor px-4 py-2 rounded hover:bg-softCoral">
+              <p className="text-yellow text-xl font-bold">$Price</p>
+              <button className="mt-2 bg-yellow text-whiteColor px-4 py-2 rounded hover:bg-yellow">
                 View Details
               </button>
             </div>
@@ -88,8 +88,8 @@ export const FeaturedProductSection = () => {
               <h3 className="text-lg font-semibold text-charcoal">
                 Fabric Name
               </h3>
-              <p className="text-purple text-xl font-bold">$Price</p>
-              <button className="mt-2 bg-purple text-whiteColor px-4 py-2 rounded hover:bg-softCoral">
+              <p className="text-yellow text-xl font-bold">$Price</p>
+              <button className="mt-2 bg-yellow text-whiteColor px-4 py-2 rounded hover:bg-yellow">
                 View Details
               </button>
             </div>

@@ -8,12 +8,16 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        deepTeal: "#007C7A",
+        deepTeal: "#40916c",
+        //"#007C7A",
         charcoal: "#333333",
-        softCoral: "#FF6F61",
-        purple: "#9F84BD",
+        softCoral: "#fca311",
+        yellow:"#fca311",
+        purple: "#5f0f40",
         whiteColor: "#FFFFFF",
-        lightPink: "#EDE3E9",
+        lightPink: "#fefae0",
+        red: "#d00000",
+        
       },
     },
   },

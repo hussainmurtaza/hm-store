@@ -14,10 +14,24 @@ export default function Header() {
     <header className="fixed top-0 left-0 w-full bg-purple shadow-md z-50">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         {/* Logo */}
+       
         <div className="flex-shrink-0">
-          <Link href="/" className="text-2xl font-bold text-whiteColor">
-            H.M Store
-          </Link>
+          <div>
+            <a href="#">
+            <img
+                src="/images/logo.png"
+                alt="Logo"
+                
+               className="w-10"
+               
+              />
+            </a>
+
+          </div>
+      
+          {/* <Link href="/" className="text-2xl font-bold text-whiteColor">
+          H.M Store
+          </Link> */}
         </div>
 
         {/* Hamburger Icon for mobile */}

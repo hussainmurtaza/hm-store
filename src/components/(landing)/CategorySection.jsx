@@ -19,7 +19,7 @@ const CategorySection = () => {
                 className="w-full h-50 object-cover mb-2"
               />
             <h3 className="text-lg font-semibold text-charcoal">Lawn</h3>
-            <Link href="/lawn" className="text-[#FFB347] hover:text-softCoral">
+            <Link href="/lawn" className="text-[purple] hover:text-red">
               Shop Now
             </Link>
           </div>
@@ -32,7 +32,7 @@ const CategorySection = () => {
                 className="w-full h-50 object-cover mb-2"
               />
             <h3 className="text-lg font-semibold text-charcoal">Lawn</h3>
-            <Link href="/lawn" className="text-[#FFB347] hover:text-softCoral">
+            <Link href="/lawn" className="text-[purple] hover:text-red">
               Shop Now
             </Link>
           </div>
@@ -45,7 +45,7 @@ const CategorySection = () => {
                 className="w-full h-50 object-cover mb-2"
               />
             <h3 className="text-lg font-semibold text-charcoal">Lawn</h3>
-            <Link href="/lawn" className="text-[#FFB347] hover:text-softCoral">
+            <Link href="/lawn" className="text-[purple] hover:text-red">
               Shop Now
             </Link>
           </div>
@@ -58,7 +58,7 @@ const CategorySection = () => {
                 className="w-full h-50 object-cover mb-2"
               />
             <h3 className="text-lg font-semibold text-charcoal">Lawn</h3>
-            <Link href="/lawn" className="text-[#FFB347] hover:text-softCoral">
+            <Link href="/lawn" className="text-[purple] hover:text-red">
               Shop Now
             </Link>
           </div>
@@ -71,7 +71,7 @@ const CategorySection = () => {
                 className="w-full h-50 object-cover mb-2"
               />
             <h3 className="text-lg font-semibold text-charcoal">Lawn</h3>
-            <Link href="/lawn" className="text-[#FFB347] hover:text-softCoral">
+            <Link href="/lawn" className="text-[purple] hover:text-red">
               Shop Now
             </Link>
           </div>
@@ -84,7 +84,7 @@ const CategorySection = () => {
                 className="w-full h-50 object-cover mb-2"
               />
             <h3 className="text-lg font-semibold text-charcoal">Lawn</h3>
-            <Link href="/lawn" className="text-[#FFB347] hover:text-softCoral">
+            <Link href="/lawn" className="text-[purple] hover:text-red">
               Shop Now
             </Link>
           </div>

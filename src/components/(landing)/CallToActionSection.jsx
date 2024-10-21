@@ -15,7 +15,7 @@ const CallToActionSection = () => {
             placeholder="Enter your email"
             className="px-4 py-2 rounded-l-full focus:outline-none border"
           />
-          <button className="bg-deepTeal hover:bg-softCoral text-whiteColor px-4 py-2 rounded-r-full">
+          <button className="bg-yellow hover:bg-yellow text-whiteColor px-4 py-2 rounded-r-full">
             Subscribe
           </button>
         </form>
